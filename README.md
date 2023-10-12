@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ---
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=DwikiCahyo&layout=compact" />
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Dwikicahyo&layout=compact" />
